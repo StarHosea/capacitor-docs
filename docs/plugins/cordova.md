@@ -78,3 +78,4 @@ Here is a list of known incompatible plugins:
 - [`cordova-plugin-statusbar`](https://github.com/apache/cordova-plugin-statusbar) (not needed, Capacitor has its own)
 - [`cordova-plugin-wkwebview-engine`](https://github.com/apache/cordova-plugin-wkwebview-engine) (not needed, Capacitor uses WKWebView)
 - [`cordova-plugin-googlemaps`](https://github.com/mapsplugin/cordova-plugin-googlemaps) (causes build failures on iOS, skipped for iOS only)
+- [`cordova-plugin-file-transfer`](https://github.com/apache/cordova-plugin-file-transfer)([see dtails](https://github.com/apache/cordova-plugin-file-transfer/issues/345))
